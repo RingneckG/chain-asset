@@ -16,6 +16,7 @@ lib/
 # Editors/IDE
 .vscode/
 .idea/
+.claude/
 
 # Misc
 *.min.js

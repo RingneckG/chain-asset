@@ -45,6 +45,21 @@
     "Network": "assethub-polkadot"
   },
   {
+    "TokenID": "standard_assets/50000478",
+    "TokenSymbol": "EURJ",
+    "Logo": "../logos/assethub-polkadot_asset_EURJ.png",
+    "Description (en)": "EUR-based stablecoin of the Jinex protocol on Polkadot AssetHub, later Enjin Matrixchain, then Jinex Matrixchain. Maintains a 1:1 backing ratio with EUR stablecoins.\n\nLearn more: [jinex.io](https://jinex.io) | [docs.jinex.io](https://docs.jinex.io)",
+    "Description (zh)": "Jinex 协议在 Polkadot AssetHub 上发行的欧元稳定币，后续将上线 Enjin Matrixchain，最终登陆 Jinex Matrixchain。与欧元稳定币保持 1:1 的背书比率。\n\n了解更多：[jinex.io](https://jinex.io) | [docs.jinex.io](https://docs.jinex.io)",
+    "Website Link": "https://jinex.io",
+    "Twitter Link": "https://x.com/jinex_io",
+    "Telegram Link": "https://t.me/jinex_io",
+    "Discord Link": "",
+    "Medium Link": "",
+    "Github Link": "",
+    "Category": "asset",
+    "Network": "assethub-polkadot"
+  },
+  {
     "TokenID": "standard_assets/555",
     "TokenSymbol": "GAME",
     "Logo": "../logos/assethub-polkadot_asset_GAME.svg",
@@ -56,6 +71,21 @@
     "Discord Link": "https://discord.gg/gamedao",
     "Medium Link": "https://blog.gamedao.co",
     "Github Link": "https://github.com/gamedaoco",
+    "Category": "asset",
+    "Network": "assethub-polkadot"
+  },
+  {
+    "TokenID": "standard_assets/50000476",
+    "TokenSymbol": "JIN",
+    "Logo": "../logos/assethub-polkadot_asset_JIN.png",
+    "Description (en)": "JIN has two, permanent versions: Jinex Token and Jinex Coin, each with its own utilities. Always 2-way convertible between them.\n\n**Jinex Token (JIN)** - \"MultiToken\" version on Enjin Matrixchain\n- Used primarily as an intrinsic store of value, via ENJ Infusions, an on-chain feature of Enjin Blockchain.\n- Pay fees with JIN for -50% on all DeFi features fees.\n- No decimal token.\n\n**Jinex Coin (JIN)** - \"Asset\" version on Polkadot AssetHub, later Enjin Matrixchain, then Jinex Matrixchain.\n- Used primarily for exchanges.\n- Pay fees with JIN for -50% on all DEX (multi-chain) features fees.\n- Governance (crypto creation proposals etc).\n- Once Jinex Matrixchain is live, will be used for gas and all chain actions.\n\nLearn more: [jinex.io](https://jinex.io) | [docs.jinex.io](https://docs.jinex.io)",
+    "Description (zh)": "JIN 有两个永久版本：Jinex Token 和 Jinex Coin，各自拥有独立的用途。它们之间始终支持双向兑换。\\n\\n**Jinex Token (JIN)** - 位于 Enjin Matrixchain 上的\"MultiToken\"（多代币）版本\\n- 主要作为内在的价值存储，通过 Enjin 区块链的链上功能 ENJ Infusions 实现。\\n- 使用 JIN 支付费用，可享受所有 DeFi 功能手续费 50% 的折扣 (-50%)。\\n- 无小数位代币（不可分割）。\\n\\n**Jinex Coin (JIN)** - 位于 Polkadot AssetHub 上的\"Asset\"（资产）版本，后续将上线 Enjin Matrixchain，最终登陆 Jinex Matrixchain。\\n- 主要用于交易平台和兑换。\\n- 使用 JIN 支付费用，可享受所有 DEX（多链）功能手续费 50% 的折扣 (-50%)。\\n- 用于治理（如加密资产创建提案等）。\\n- 一旦 Jinex Matrixchain 上线，将用于支付 Gas 费以及所有的链上操作。\\n\\n了解更多：[jinex.io](https://jinex.io) | [docs.jinex.io](https://docs.jinex.io)",
+    "Website Link": "https://jinex.io",
+    "Twitter Link": "https://x.com/jinex_io",
+    "Telegram Link": "https://t.me/jinex_io",
+    "Discord Link": "",
+    "Medium Link": "",
+    "Github Link": "",
     "Category": "asset",
     "Network": "assethub-polkadot"
   },
@@ -194,6 +224,21 @@
     "Github Link": "",
     "Category": "asset",
     "Coingecko API ID": "usd-coin",
+    "Network": "assethub-polkadot"
+  },
+  {
+    "TokenID": "standard_assets/50000477",
+    "TokenSymbol": "USDJ",
+    "Logo": "../logos/assethub-polkadot_asset_USDJ.png",
+    "Description (en)": "USD-anchored stablecoin of the Jinex protocol on Polkadot AssetHub, later Enjin Matrixchain, then Jinex Matrixchain. Maintains a 1:1 backing ratio with multiple established stablecoins including USDT and USDC simultaneously.\n\nLearn more: [jinex.io](https://jinex.io) | [docs.jinex.io](https://docs.jinex.io)",
+    "Description (zh)": "Jinex 协议在 Polkadot AssetHub 上发行的美元稳定币，后续将上线 Enjin Matrixchain，最终登陆 Jinex Matrixchain。同时与多个主流稳定币（包括 USDT 和 USDC）保持 1:1 的背书比率。\n\n了解更多：[jinex.io](https://jinex.io) | [docs.jinex.io](https://docs.jinex.io)",
+    "Website Link": "https://jinex.io",
+    "Twitter Link": "https://x.com/jinex_io",
+    "Telegram Link": "https://t.me/jinex_io",
+    "Discord Link": "",
+    "Medium Link": "",
+    "Github Link": "",
+    "Category": "asset",
     "Network": "assethub-polkadot"
   },
   {
